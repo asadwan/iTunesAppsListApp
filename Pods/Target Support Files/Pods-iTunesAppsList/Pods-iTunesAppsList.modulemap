@@ -1,0 +1,6 @@
+framework module Pods_iTunesAppsList {
+  umbrella header "Pods-iTunesAppsList-umbrella.h"
+
+  export *
+  module * { export * }
+}
